@@ -1,1 +1,1 @@
-# taller_1_arquitectura
+# Laboratorio 1 Arquitectura de Software
